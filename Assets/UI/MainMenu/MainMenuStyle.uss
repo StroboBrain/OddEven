@@ -1,0 +1,36 @@
+.buttonStyles {
+    justify-content: flex-end;
+    align-items: auto;
+    align-self: center;
+    width: 80%;
+    height: 40%;
+    font-size: 250%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.button-div {
+    flex-grow: 1;
+    background-size: 100% 100%;
+    align-self: center;
+    width: 70%;
+    height: 60%;
+    align-items: center;
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-left: 10%;
+    align-content: auto;
+    justify-content: flex-start;
+}
+
+.main-div {
+    flex-grow: 1;
+}
+
+#start-button{
+    color: #96019A;
+    background-color: #FFCE16;
+}
