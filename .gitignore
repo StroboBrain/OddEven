@@ -1,3 +1,7 @@
-/*!Assets/
+# Ignore everything
+/*
 
-!.gitignore
+# Do not ignore following
+!/.gitignore
+!/Assets/
+!/README.md
