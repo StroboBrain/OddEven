@@ -1,5 +1,5 @@
 # OddEven
-First Unity Game Project
+First Unity Game Project as SoloDev
 
 ##
 Project to learn the Unity Game Engine and improve in C#
